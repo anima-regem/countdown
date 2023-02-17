@@ -1,0 +1,26 @@
+.Counter_timer {
+    display: flex;
+    justify-content: center;
+
+}
+
+.Counter_time {
+    width: 50px;
+    /* border: 1px solid black; */
+    justify-content: center;
+    text-align: center;
+
+}
+
+.Counter_time_para p {
+    font-size: 0.8em;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.Counter_time_heading {
+    font-size: 1em;
+    font-weight: 500;
+    color: #000;
+    margin-bottom: 0%;
+}
