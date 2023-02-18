@@ -37,6 +37,7 @@ header{
     flex-direction: column;
     font-weight: 600;
     font-size: 1.5rem;
+    margin: 5%;
 }
 
 .header{    
@@ -131,4 +132,9 @@ header{
   }
   
     
+  }
+
+
+  h1{
+    margin-bottom: 5%;
   }

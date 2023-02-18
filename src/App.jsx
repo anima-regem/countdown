@@ -8,10 +8,10 @@ function App() {
 
   return (
     <div className="App">
-      <header>
+      <header className='animate__animated animate__slideInUp'>
 
 
-        <div className="header">
+        <div className="header ">
           IEEE
           <span className='job'>
             {' '}
@@ -26,7 +26,7 @@ function App() {
         </div>
       </header>
 
-      <main>
+      <main className='animate__animated animate__slideInUp'>
         <div className="coming-soon">
           <h1 className="coming">COMING <span className='soon'>SOON</span></h1>
         </div>
@@ -34,7 +34,7 @@ function App() {
       </main>
 
 
-      <div className="prev">
+      <div className="prev animate__animated animate__slideInUp">
         <p>
           Previous Iterations
         </p>
