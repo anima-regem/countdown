@@ -10,7 +10,7 @@
     justify-content: space-between;
     height: 100vh;
     flex-direction: column;
-    background-image: url('/bg4.jpg');
+    background-image: url('/bg1.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -36,6 +36,7 @@ header{
     align-items: center;
     flex-direction: column;
     font-weight: 600;
+    font-size: 1.5rem;
 }
 
 .header{    

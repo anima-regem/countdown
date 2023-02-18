@@ -15,10 +15,10 @@ function App() {
           IEEE
           <span className='job'>
             {' '}
-            JOB
+            JOB FAIR
             {' '}
           </span>
-          FAIR 2023
+           2023
         </div>
 
         <div className="logo">
